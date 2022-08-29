@@ -1,4 +1,4 @@
-# example_proj
+# MicroEmergency
 
 ## Project setup
 ```
